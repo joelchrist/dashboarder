@@ -121,13 +121,13 @@
     "directive-selector": [
       true,
       "attribute",
-      "app",
+      "dashboarder",
       "camelCase"
     ],
     "component-selector": [
       true,
       "element",
-      "app",
+      "dashboarder",
       "kebab-case"
     ],
     "no-output-on-prefix": true,
